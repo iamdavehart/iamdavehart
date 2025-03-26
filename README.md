@@ -12,12 +12,15 @@ Hi! I'm Dave and I live and work in London as a technology consultant. I've got 
 
 ## 💬 Ask me about ...
 
-- react
-- node.js
-- smart contracts
-- tableau 
-- guitars
-- best places to eat in London
+- 🧠 ai
+- ⚛️ react
+- 🐍 python
+- 🟢 node.js
+- 🔅 neo4j
+- 📜 smart contracts
+- 📊 tableau 
+- 🎸 guitars
+- 🍽️ best places to eat in London
 
 
 
