@@ -18,6 +18,7 @@ Hi! I'm Dave and I live and work in London as a technology consultant. I've got 
 - 🟢 node.js
 - 🔅 neo4j
 - 📜 smart contracts
+- 🛒 shopify
 - 📊 tableau 
 - 🎸 guitars
 - 🍽️ best places to eat in London
